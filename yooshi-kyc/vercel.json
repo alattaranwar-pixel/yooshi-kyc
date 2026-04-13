@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "functions": {
+    "api/kyc-screen.js": {
+      "memory": 256,
+      "maxDuration": 15
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/kyc-screen",
+      "dest": "/api/kyc-screen.js"
+    }
+  ]
+}

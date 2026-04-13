@@ -1,0 +1,16 @@
+{
+  "name": "yooshi-kyc-screening",
+  "version": "1.0.0",
+  "description": "KYC sanctions screening function for Yooshi Jewelry — screens against UN Consolidated List and Kuwait MOFA National List",
+  "main": "api/kyc-screen.js",
+  "scripts": {
+    "convert-un-list": "node scripts/convert-un-list.js",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.3.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

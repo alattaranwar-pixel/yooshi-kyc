@@ -1,0 +1,21 @@
+[
+  {
+    "_instructions": "REMOVE THIS ENTRY. Replace contents of this file with entries from the Kuwait MOFA National List (UN Resolution 1373).",
+    "_how_to_update": "Visit https://www.mofa.gov.kw/en/pagesNational_List and manually copy the names into this file. Update whenever MOFA publishes changes.",
+    "_format": {
+      "name": "Primary sanctioned name in English (required)",
+      "name_arabic": "Primary name in Arabic if available",
+      "aliases": ["Alternative English spellings", "Arabic transliterations"],
+      "nationality": "Nationality if listed",
+      "listed_on": "Date listed if known",
+      "notes": "Any additional notes"
+    }
+  },
+  {
+    "name": "SAMPLE ENTRY DO NOT USE",
+    "name_arabic": "نموذج فقط",
+    "aliases": ["SAMPLE ALIAS"],
+    "nationality": "Unknown",
+    "listed_on": "2024-01-01"
+  }
+]
