@@ -1,21 +1,2392 @@
 [
   {
-    "_instructions": "REMOVE THIS ENTRY. Replace contents of this file with entries from the Kuwait MOFA National List (UN Resolution 1373).",
-    "_how_to_update": "Visit https://www.mofa.gov.kw/en/pagesNational_List and manually copy the names into this file. Update whenever MOFA publishes changes.",
-    "_format": {
-      "name": "Primary sanctioned name in English (required)",
-      "name_arabic": "Primary name in Arabic if available",
-      "aliases": ["Alternative English spellings", "Arabic transliterations"],
-      "nationality": "Nationality if listed",
-      "listed_on": "Date listed if known",
-      "notes": "Any additional notes"
-    }
+    "name": "Al-frjany Bn BdAl-hmyd Mr Al-dmbry",
+    "name_arabic": "الفرجاني بن عبدالحميد عمر الضمبري",
+    "aliases": [
+      "الفرجاني بن عبدالحميد عمر الضمبري"
+    ],
+    "nationality": "Tunisian",
+    "dob": "22/07/2001",
+    "civil_id": "301072202508",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
   },
   {
-    "name": "SAMPLE ENTRY DO NOT USE",
-    "name_arabic": "نموذج فقط",
-    "aliases": ["SAMPLE ALIAS"],
-    "nationality": "Unknown",
-    "listed_on": "2024-01-01"
+    "name": "Hmza Bn Hryz Al-qasmy",
+    "name_arabic": "حمزة بن حريز القاسمي",
+    "aliases": [
+      "حمزة بن حريز القاسمي"
+    ],
+    "nationality": "Tunisian",
+    "dob": "04/01/1998",
+    "civil_id": "298010403705",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Idrys Bs SAl-h SAl-y",
+    "name_arabic": "إدريس بس صالح عسالي",
+    "aliases": [
+      "إدريس بس صالح عسالي"
+    ],
+    "nationality": "Tunisian",
+    "dob": "26/04/2000",
+    "civil_id": "300042602274",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mbark Mhmd Msd Ly Al-jy",
+    "name_arabic": "مبارك محمد مسعد علي العجي",
+    "aliases": [
+      "مبارك محمد مسعد علي العجي"
+    ],
+    "nationality": "Qatari",
+    "dob": "04/11/1988",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Majd BdAl-lh Mhmd Al-zhrany",
+    "name_arabic": "ماجد عبدالله محمد الزهراني",
+    "aliases": [
+      "ماجد عبدالله محمد الزهراني"
+    ],
+    "nationality": "Saudi",
+    "dob": "07/06/1985",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd BdAl-lh Mhmd Al-zhrany",
+    "name_arabic": "محمد عبدالله محمد الزهراني",
+    "aliases": [
+      "محمد عبدالله محمد الزهراني"
+    ],
+    "nationality": "Saudi",
+    "dob": "25/02/1979",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Shbyb SAl-m Slyman Al-nzy",
+    "name_arabic": "شبيب سالم سليمان العنزي",
+    "aliases": [
+      "شبيب سالم سليمان العنزي"
+    ],
+    "nationality": "Saudi",
+    "dob": "24/10/1988",
+    "civil_id": "288102300341",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Nsma Mhmd Qasm Ly",
+    "name_arabic": "نسمة محمد قاسم علي",
+    "aliases": [
+      "نسمة محمد قاسم علي"
+    ],
+    "nationality": "Pakistani",
+    "dob": "01/01/1970",
+    "civil_id": "270021400484",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Shr Qasm Ly Ghlam",
+    "name_arabic": "سحر قاسم علي غلام",
+    "aliases": [
+      "سحر قاسم علي غلام"
+    ],
+    "nationality": "Pakistani",
+    "dob": "01/01/1991",
+    "civil_id": "291041101273",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Asama Mhmd Syd Al-khyat",
+    "name_arabic": "اسامة محمد سعيد الخياط",
+    "aliases": [
+      "اسامة محمد سعيد الخياط"
+    ],
+    "nationality": "Lebanese",
+    "dob": "11/09/1975",
+    "civil_id": "275091100981",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-krym Mhmd Slym",
+    "name_arabic": "عبدالكريم محمد سليم",
+    "aliases": [
+      "عبدالكريم محمد سليم"
+    ],
+    "nationality": "Syrian",
+    "dob": "01/01/1962",
+    "civil_id": "262081601739",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hazm Mhmd Khyr Ttry",
+    "name_arabic": "حازم محمد خير ططري",
+    "aliases": [
+      "حازم محمد خير ططري"
+    ],
+    "nationality": "Syrian",
+    "dob": "26/04/1984",
+    "civil_id": "284042600204",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-nasr Mhmwd Al-shykh Shwa",
+    "name_arabic": "عبدالناصر محمود الشيخ شوا",
+    "aliases": [
+      "عبدالناصر محمود الشيخ شوا"
+    ],
+    "nationality": "Syrian",
+    "dob": "06/05/1987",
+    "civil_id": "287050601788",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Wayl Mhmd Ahmd Bghdady",
+    "name_arabic": "وائل محمد أحمد بغدادي",
+    "aliases": [
+      "وائل محمد أحمد بغدادي"
+    ],
+    "nationality": "Egyptian",
+    "dob": "03/08/1974",
+    "civil_id": "274080304933",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmdhkmt Mhmdkhyr Ttry",
+    "name_arabic": "محمدحكمت محمدخير ططري",
+    "aliases": [
+      "محمدحكمت محمدخير ططري"
+    ],
+    "nationality": "Syrian",
+    "dob": "10/08/1980",
+    "civil_id": "280040900256",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Rby Nzyr Abwzlf",
+    "name_arabic": "ربيع نزير أبوزلف",
+    "aliases": [
+      "ربيع نزير أبوزلف"
+    ],
+    "nationality": "Australian",
+    "dob": "22/02/1981",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Amyna Dhhb",
+    "name_arabic": "أمينة ذهب",
+    "aliases": [
+      "أمينة ذهب"
+    ],
+    "nationality": "Australian (Lebanese origin)",
+    "dob": "07/01/1967",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsham Dhhb",
+    "name_arabic": "هشام ذهب",
+    "aliases": [
+      "هشام ذهب"
+    ],
+    "nationality": "Australian (Lebanese origin)",
+    "dob": "01/09/1957",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Hashm Dhhb",
+    "name_arabic": "محمد هاشم ذهب",
+    "aliases": [
+      "محمد هاشم ذهب"
+    ],
+    "nationality": "Australian",
+    "dob": "1957",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Nayf SAl-h SAl-m Al-qysy",
+    "name_arabic": "نايف صالح سالم القيسي",
+    "aliases": [
+      "نايف صالح سالم القيسي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "01/01/1983",
+    "passport": "04796738",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-whab Mhmd BdAl-rhmn Al-hmyqany",
+    "name_arabic": "عبدالوهاب محمد عبدالرحمن الحميقاني",
+    "aliases": [
+      "عبدالوهاب محمد عبدالرحمن الحميقاني"
+    ],
+    "nationality": "Yemeni",
+    "dob": "04/08/1972",
+    "passport": "03902409",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hashm Mhsn Ydrws",
+    "name_arabic": "هاشم محسن عيدروس",
+    "aliases": [
+      "هاشم محسن عيدروس"
+    ],
+    "nationality": "Yemeni",
+    "dob": "12/09/1985",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "KhAl-d BdAl-lh SAl-h Al-mrfdy",
+    "name_arabic": "خالد عبدالله صالح المرفدي",
+    "aliases": [
+      "خالد عبدالله صالح المرفدي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "04/09/1966",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Syf BdAl-rb SAl-m Al-hyshy",
+    "name_arabic": "سيف عبدالرب سالم الحيشي",
+    "aliases": [
+      "سيف عبدالرب سالم الحيشي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "1978",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Adl Bdh Fary Thman Al-dhhbany",
+    "name_arabic": "عادل عبده فاري عثمان الذهباني",
+    "aliases": [
+      "عادل عبده فاري عثمان الذهباني"
+    ],
+    "nationality": "Yemeni",
+    "dob": "15/07/1963",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Rdwan Mhmd Hsyn Qnan",
+    "name_arabic": "رضوان محمد حسين قنان",
+    "aliases": [
+      "رضوان محمد حسين قنان"
+    ],
+    "nationality": "Yemeni",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "WAl-y Nshwan Al-yafy",
+    "name_arabic": "والي نشوان اليافعي",
+    "aliases": [
+      "والي نشوان اليافعي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "1984",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "KhAl-d Syd Ghabsh Al-bydy",
+    "name_arabic": "خالد سعيد غابش العبيدي",
+    "aliases": [
+      "خالد سعيد غابش العبيدي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "1985",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BlAl- Ly Al-wafy",
+    "name_arabic": "بلال علي الوافي",
+    "aliases": [
+      "بلال علي الوافي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "1987",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Yzbk",
+    "name_arabic": "محمد يزبك",
+    "aliases": [
+      "محمد يزبك"
+    ],
+    "nationality": "Lebanese",
+    "dob": "1950",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "TlAl- Hmya",
+    "name_arabic": "طلال حمية",
+    "aliases": [
+      "طلال حمية"
+    ],
+    "nationality": "Lebanese",
+    "dob": "27/11/1952",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Adhm Hsyn Tbaja",
+    "name_arabic": "أدهم حسين طباجة",
+    "aliases": [
+      "أدهم حسين طباجة"
+    ],
+    "nationality": "Lebanese",
+    "dob": "1967",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsn Ahmd Ibrahym",
+    "name_arabic": "حسن أحمد إبراهيم",
+    "aliases": [
+      "حسن أحمد إبراهيم"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Ywsf Shrara",
+    "name_arabic": "علي يوسف شرارة",
+    "aliases": [
+      "علي يوسف شرارة"
+    ],
+    "nationality": "Lebanese",
+    "dob": "25/09/1968",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ibrahym Amyn Al-syd",
+    "name_arabic": "إبراهيم أمين السيد",
+    "aliases": [
+      "إبراهيم أمين السيد"
+    ],
+    "nationality": "Lebanese",
+    "dob": "1953",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-lh Smd Farwqy",
+    "name_arabic": "عبدالله صمد فاروقي",
+    "aliases": [
+      "عبدالله صمد فاروقي"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Nym Barysh",
+    "name_arabic": "محمد نعيم باريش",
+    "aliases": [
+      "محمد نعيم باريش",
+      "محمد نعيم بريش",
+      "Mhmd Nym Brysh"
+    ],
+    "nationality": "Pakistani",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-zyz Shah Zmany",
+    "name_arabic": "عبدالعزيز شاه زماني",
+    "aliases": [
+      "عبدالعزيز شاه زماني"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Wlyd Nasyf",
+    "name_arabic": "وليد ناصيف",
+    "aliases": [
+      "وليد ناصيف",
+      "وليد السعدو",
+      "Wlyd Al-sdw"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Al-sqyt",
+    "name_arabic": "محمد السقيط",
+    "aliases": [
+      "محمد السقيط",
+      "أبو محمود",
+      "Abw Mhmwd"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Sayd Brkat",
+    "name_arabic": "سائد بركات",
+    "aliases": [
+      "سائد بركات",
+      "ساند بركات",
+      "Sand Brkat"
+    ],
+    "nationality": "Ukrainian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Qnan Al-syry",
+    "name_arabic": "محمد قنعان الصيعري",
+    "aliases": [
+      "محمد قنعان الصيعري"
+    ],
+    "nationality": "Yemeni",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Nym Qasm",
+    "name_arabic": "نعيم قاسم",
+    "aliases": [
+      "نعيم قاسم",
+      "نعيم قيام",
+      "Nym Qyam"
+    ],
+    "nationality": "Lebanese",
+    "dob": "01/01/1953",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsn Ibrahym",
+    "name_arabic": "حسن إبراهيم",
+    "aliases": [
+      "حسن إبراهيم"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hashm Sfy Al-dyn",
+    "name_arabic": "هاشم صفي الدين",
+    "aliases": [
+      "هاشم صفي الدين"
+    ],
+    "nationality": "Lebanese",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn Ahmd Ibrahym",
+    "name_arabic": "حسين أحمد إبراهيم",
+    "aliases": [
+      "حسين أحمد إبراهيم"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Ibrahym Awhady",
+    "name_arabic": "محمد إبراهيم أوهادي",
+    "aliases": [
+      "محمد إبراهيم أوهادي"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ismayl Ryzafy",
+    "name_arabic": "إسماعيل ريزافي",
+    "aliases": [
+      "إسماعيل ريزافي"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mla Mhmd Dawwd Mzml",
+    "name_arabic": "ملة محمد داوود مزمل",
+    "aliases": [
+      "ملة محمد داوود مزمل"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mla BdAl-rhym Mnan",
+    "name_arabic": "ملة عبدالرحيم منان",
+    "aliases": [
+      "ملة عبدالرحيم منان"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Sdr Ibrahym",
+    "name_arabic": "صدر إبراهيم",
+    "aliases": [
+      "صدر إبراهيم"
+    ],
+    "dob": "1967",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hafz Majd Shyb Bshyr",
+    "name_arabic": "حافظ ماجد صهيب بشير",
+    "aliases": [
+      "حافظ ماجد صهيب بشير"
+    ],
+    "dob": "1972",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mwssa Wyby Mastr LlIstsharat Al-kmbywtr",
+    "name_arabic": "مؤسسة ويبي ماستر للإستشارات الكمبيوتر",
+    "aliases": [
+      "مؤسسة ويبي ماستر للإستشارات الكمبيوتر"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Shrka Wyby Mastr LlIstsharat Al-kmbywtr Al-bnkya",
+    "name_arabic": "شركة ويبي ماستر للإستشارات الكمبيوتر البنكية",
+    "aliases": [
+      "شركة ويبي ماستر للإستشارات الكمبيوتر البنكية"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Al-jnah Al-skry Lhzb Al-lh",
+    "name_arabic": "الجناح العسكري لحزب الله",
+    "aliases": [
+      "الجناح العسكري لحزب الله"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mjmwa Sbktrwm Al-tyf",
+    "name_arabic": "مجموعة سبكتروم الطيف",
+    "aliases": [
+      "مجموعة سبكتروم الطيف"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mahr Lltjara",
+    "name_arabic": "ماهر للتجارة",
+    "aliases": [
+      "ماهر للتجارة"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mjmwa Al-Inma Llmshary WAl-hndsa WAl-mqawlat",
+    "name_arabic": "مجموعة الإنماء للمشاريع والهندسة والمقاولات",
+    "aliases": [
+      "مجموعة الإنماء للمشاريع والهندسة والمقاولات"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jmaa Nsra Al-Imam WAl-Islam WAl-mslmyn Fy MAl-y",
+    "name_arabic": "جماعة نصرة الإمام والإسلام والمسلمين في مالي",
+    "aliases": [
+      "جماعة نصرة الإمام والإسلام والمسلمين في مالي"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hrka Sham Al-Islam",
+    "name_arabic": "حركة شام الإسلام",
+    "aliases": [
+      "حركة شام الإسلام"
+    ],
+    "nationality": "Syria",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jmya Al-rhma Al-khyrya",
+    "name_arabic": "جمعية الرحمة الخيرية",
+    "aliases": [
+      "جمعية الرحمة الخيرية"
+    ],
+    "nationality": "Yemen",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Swbrmarkt Al-khyr",
+    "name_arabic": "سوبرماركت الخير",
+    "aliases": [
+      "سوبرماركت الخير"
+    ],
+    "nationality": "Yemen",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn Ahmd Al-dmamy",
+    "name_arabic": "حسين احمد الدمامي",
+    "aliases": [
+      "حسين احمد الدمامي"
+    ],
+    "nationality": "Bahraini",
+    "dob": "16/11/1989",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly BdAl-nby Al-shwfh",
+    "name_arabic": "علي عبدالنبي الشوفه",
+    "aliases": [
+      "علي عبدالنبي الشوفه"
+    ],
+    "nationality": "Bahraini",
+    "dob": "25/07/1991",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ysa SAl-h Slman",
+    "name_arabic": "عيسى صالح سلمان",
+    "aliases": [
+      "عيسى صالح سلمان"
+    ],
+    "nationality": "Bahraini",
+    "dob": "30/05/1981",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsn Ahmd Rady Srhan",
+    "name_arabic": "حسن احمد راضي سرحان",
+    "aliases": [
+      "حسن احمد راضي سرحان"
+    ],
+    "nationality": "Bahraini",
+    "dob": "11/12/1990",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "SwAl-h Abwbkr",
+    "name_arabic": "صوالح ابوبكر",
+    "aliases": [
+      "صوالح ابوبكر"
+    ],
+    "nationality": "Ugandan",
+    "dob": "13/06/1992",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Zayd Qnqat",
+    "name_arabic": "زايد قنقات",
+    "aliases": [
+      "زايد قنقات"
+    ],
+    "nationality": "Somali",
+    "dob": "05/06/1994",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hmydh NabaqAl-h",
+    "name_arabic": "حميده ناباقاله",
+    "aliases": [
+      "حميده ناباقاله"
+    ],
+    "nationality": "Ugandan",
+    "dob": "09/03/1994",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Ahmd Hsyn",
+    "name_arabic": "علي احمد حسين",
+    "aliases": [
+      "علي احمد حسين"
+    ],
+    "nationality": "Somali",
+    "dob": "1980",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Maksmyd KAl-y",
+    "name_arabic": "ماكسميد كالي",
+    "aliases": [
+      "ماكسميد كالي"
+    ],
+    "nationality": "Somali",
+    "dob": "1983",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Kbady",
+    "name_arabic": "احمد كبادي",
+    "aliases": [
+      "احمد كبادي",
+      "احمد كباضي",
+      "Ahmd Kbady"
+    ],
+    "nationality": "Somali",
+    "dob": "1975",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Adan Ywsf Syd Ibrahym",
+    "name_arabic": "ادان يوسف سعيد إبراهيم",
+    "aliases": [
+      "ادان يوسف سعيد إبراهيم"
+    ],
+    "nationality": "Somali",
+    "dob": "1987",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mwmn Dyry",
+    "name_arabic": "مومن ديري",
+    "aliases": [
+      "مومن ديري",
+      "مومن ضيري",
+      "Mwmn Dyry"
+    ],
+    "nationality": "Somali",
+    "dob": "1985",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Maklyn Brhan",
+    "name_arabic": "ماكلين برهان",
+    "aliases": [
+      "ماكلين برهان"
+    ],
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Bdwyly Mhmd Ywsf",
+    "name_arabic": "عبدويلي محمد يوسف",
+    "aliases": [
+      "عبدويلي محمد يوسف",
+      "عبدالولي محمد يوسف",
+      "BdAl-wly Mhmd Ywsf"
+    ],
+    "nationality": "Somali",
+    "dob": "1980",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn Abshr",
+    "name_arabic": "حسين ابشر",
+    "aliases": [
+      "حسين ابشر"
+    ],
+    "nationality": "Somali",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Syat Aywtw",
+    "name_arabic": "سيات ايوتو",
+    "aliases": [
+      "سيات ايوتو"
+    ],
+    "nationality": "Somali",
+    "dob": "1982",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsan Yarwsw",
+    "name_arabic": "حسان ياروسو",
+    "aliases": [
+      "حسان ياروسو"
+    ],
+    "nationality": "Somali",
+    "dob": "1990",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Syd BdAl-lh Dan",
+    "name_arabic": "سعيد عبدالله عدان",
+    "aliases": [
+      "سعيد عبدالله عدان"
+    ],
+    "nationality": "Somali",
+    "dob": "1998",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd BdAl-lh Hayry",
+    "name_arabic": "محمد عبدالله هايري",
+    "aliases": [
+      "محمد عبدالله هايري"
+    ],
+    "nationality": "Somali",
+    "dob": "1954",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Kabdy Rwbw",
+    "name_arabic": "كابدي روبو",
+    "aliases": [
+      "كابدي روبو"
+    ],
+    "nationality": "Somali",
+    "dob": "1982",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Dnan Js",
+    "name_arabic": "عدنان جس",
+    "aliases": [
+      "عدنان جس"
+    ],
+    "nationality": "Somali",
+    "dob": "1977",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Kwmar Qwhad",
+    "name_arabic": "كومار قوهاد",
+    "aliases": [
+      "كومار قوهاد"
+    ],
+    "nationality": "Somali",
+    "dob": "1972",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-mlk Shby Mswry",
+    "name_arabic": "عبدالملك شعبي مسوري",
+    "aliases": [
+      "عبدالملك شعبي مسوري"
+    ],
+    "nationality": "Yemeni",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Mhmd Hlhly",
+    "name_arabic": "علي محمد حلحلي",
+    "aliases": [
+      "علي محمد حلحلي"
+    ],
+    "nationality": "Yemeni",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Nwr",
+    "name_arabic": "أحمد نور",
+    "aliases": [
+      "أحمد نور"
+    ],
+    "nationality": "Eritrean",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Th Adrys Mr Nwy",
+    "name_arabic": "طه ادريس عمر عنوي",
+    "aliases": [
+      "طه ادريس عمر عنوي"
+    ],
+    "nationality": "Eritrean",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hbyb Shban Hajy Ly Ghdnfry",
+    "name_arabic": "حبيب شعبان حاجي علي غضنفري",
+    "aliases": [
+      "حبيب شعبان حاجي علي غضنفري"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "JmAl- Hsyn Bd Ly Al-shty",
+    "name_arabic": "جمال حسين عبد علي الشطي",
+    "aliases": [
+      "جمال حسين عبد علي الشطي"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "JlAl- BdAl-lh SAl-h JmAl-",
+    "name_arabic": "جلال عبدالله صالح جمال",
+    "aliases": [
+      "جلال عبدالله صالح جمال"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Adl BdAl-lh Ahmd Bas",
+    "name_arabic": "عادل عبدالله أحمد عباس",
+    "aliases": [
+      "عادل عبدالله أحمد عباس"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jasm Mhmd Ghlwm Dshty",
+    "name_arabic": "جاسم محمد غلوم دشتي",
+    "aliases": [
+      "جاسم محمد غلوم دشتي"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mwsa Kazm Tahr Al-msry",
+    "name_arabic": "موسى كاظم طاهر المسري",
+    "aliases": [
+      "موسى كاظم طاهر المسري"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Anwr Slman SAl-h Al-hzym",
+    "name_arabic": "أنور سلمان صالح الهزيم",
+    "aliases": [
+      "أنور سلمان صالح الهزيم"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "KhAl-d Hsyn Hsn Al-bghly",
+    "name_arabic": "خالد حسين حسن البغلي",
+    "aliases": [
+      "خالد حسين حسن البغلي"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Ibrahym Mhmd Al-shty",
+    "name_arabic": "محمد إبراهيم محمد الشطي",
+    "aliases": [
+      "محمد إبراهيم محمد الشطي"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Bas Hmyd Bas Jrkhy",
+    "name_arabic": "عباس حميد عباس جرخي",
+    "aliases": [
+      "عباس حميد عباس جرخي"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-Amyr Ly Ibrahym Mwsa Al-tar",
+    "name_arabic": "عبدالأمير علي إبراهيم موسى العطار",
+    "aliases": [
+      "عبدالأمير علي إبراهيم موسى العطار"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Qsy Bd Ly Bhbhanyan",
+    "name_arabic": "قصي عبد علي بهبهانيان",
+    "aliases": [
+      "قصي عبد علي بهبهانيان"
+    ],
+    "nationality": "Iranian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Hsyn Jhanbany",
+    "name_arabic": "محمد حسين جهانباني",
+    "aliases": [
+      "محمد حسين جهانباني"
+    ],
+    "nationality": "Iranian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hmd Lwan Al-wys",
+    "name_arabic": "حمد علوان العويص",
+    "aliases": [
+      "حمد علوان العويص"
+    ],
+    "nationality": "Syrian",
+    "civil_id": "267010600635",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mazn Skr Al-mswd",
+    "name_arabic": "مازن صكر المسعود",
+    "aliases": [
+      "مازن صكر المسعود"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstfa Mhmd Shmh",
+    "name_arabic": "مصطفى محمد شمه",
+    "aliases": [
+      "مصطفى محمد شمه"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Ibrahym Al-mhmd",
+    "name_arabic": "أحمد إبراهيم المحمد",
+    "aliases": [
+      "أحمد إبراهيم المحمد"
+    ],
+    "nationality": "Syrian",
+    "civil_id": "271090203606",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "SAl-h Ahmd Al-drj",
+    "name_arabic": "صالح أحمد الدرج",
+    "aliases": [
+      "صالح أحمد الدرج"
+    ],
+    "nationality": "Syrian",
+    "civil_id": "273051801004",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Slah Ahmd Al-drj",
+    "name_arabic": "صلاح أحمد الدرج",
+    "aliases": [
+      "صلاح أحمد الدرج"
+    ],
+    "nationality": "Syrian",
+    "civil_id": "269030101138",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-rhmn Hmd Lwan Al-wys",
+    "name_arabic": "عبدالرحمن حمد علوان العويص",
+    "aliases": [
+      "عبدالرحمن حمد علوان العويص"
+    ],
+    "nationality": "Syrian",
+    "civil_id": "293110501203",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Mdny Mrsy Hsn",
+    "name_arabic": "أحمد مدني مرسي حسن",
+    "aliases": [
+      "أحمد مدني مرسي حسن"
+    ],
+    "nationality": "Egyptian",
+    "civil_id": "282121403832",
+    "passport": "A41130917",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hfsa Mr",
+    "name_arabic": "حفصة عمر",
+    "aliases": [
+      "حفصة عمر"
+    ],
+    "nationality": "Egyptian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ta BdAl-mjyd Mhmwd",
+    "name_arabic": "عطاء عبدالمجيد محمود",
+    "aliases": [
+      "عطاء عبدالمجيد محمود"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Fatma KhAl-d Hj Hmwd",
+    "name_arabic": "فاطمة خالد حج حمود",
+    "aliases": [
+      "فاطمة خالد حج حمود"
+    ],
+    "nationality": "Syrian",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Shrka Al-rawy Llsrafa",
+    "name_arabic": "شركة الراوي للصرافة",
+    "aliases": [
+      "شركة الراوي للصرافة"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-rhmn Ly Hsyn Al-Ahmd Al-rawy",
+    "name_arabic": "عبدالرحمن علي حسين الأحمد الراوي",
+    "aliases": [
+      "عبدالرحمن علي حسين الأحمد الراوي"
+    ],
+    "nationality": "Syrian",
+    "dob": "1983",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-rhmn Sbah Ydan Swd",
+    "name_arabic": "عبدالرحمن صباح عيدان سعود",
+    "aliases": [
+      "عبدالرحمن صباح عيدان سعود"
+    ],
+    "nationality": "Illegal resident",
+    "civil_id": "289072800306",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Flah Nmr Mjbl Ghazy Khlyf",
+    "name_arabic": "فلاح نمر مجبل غازي خليف",
+    "aliases": [
+      "فلاح نمر مجبل غازي خليف"
+    ],
+    "nationality": "Illegal resident",
+    "civil_id": "293030500956",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Fhd Frj Nsar Mharb",
+    "name_arabic": "فهد فرج نصار محارب",
+    "aliases": [
+      "فهد فرج نصار محارب"
+    ],
+    "nationality": "Illegal resident",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hajr Fhd Frj Nsar",
+    "name_arabic": "هاجر فهد فرج نصار",
+    "aliases": [
+      "هاجر فهد فرج نصار"
+    ],
+    "nationality": "Illegal resident",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Sara Fhd Frj Nsar",
+    "name_arabic": "سارة فهد فرج نصار",
+    "aliases": [
+      "سارة فهد فرج نصار"
+    ],
+    "nationality": "Illegal resident",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "SAl-h Tmh Mhbys Rwmy Al-nzy",
+    "name_arabic": "صالح طعمه محبيس رومي العنزي",
+    "aliases": [
+      "صالح طعمه محبيس رومي العنزي"
+    ],
+    "nationality": "Illegal resident",
+    "civil_id": "273051001058",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-slam Sbah Ydan Swd",
+    "name_arabic": "عبدالسلام صباح عيدان سعود",
+    "aliases": [
+      "عبدالسلام صباح عيدان سعود"
+    ],
+    "nationality": "Illegal resident",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "TAl-b Flah Mshrf Shmlan",
+    "name_arabic": "طالب فلاح مشرف شملان",
+    "aliases": [
+      "طالب فلاح مشرف شملان"
+    ],
+    "nationality": "Illegal resident",
+    "civil_id": "270011600706",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "SAl-m HmdAl-lh BdAl-ltyf Mhmd",
+    "name_arabic": "سالم حمدالله عبداللطيف محمد",
+    "aliases": [
+      "سالم حمدالله عبداللطيف محمد"
+    ],
+    "nationality": "Illegal resident",
+    "civil_id": "282083101592",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mnyr Ayd Mhdy Al-jmy",
+    "name_arabic": "منير عايض مهدي العجمي",
+    "aliases": [
+      "منير عايض مهدي العجمي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "292110600901",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Tnzym Hzb Al-lh",
+    "name_arabic": "تنظيم حزب الله",
+    "aliases": [
+      "تنظيم حزب الله"
+    ],
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Adl Mhmd Mnswr",
+    "name_arabic": "عادل محمد منصور",
+    "aliases": [
+      "عادل محمد منصور"
+    ],
+    "nationality": "Lebanese",
+    "dob": "18/05/1966",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ashrf Bn Fthy Bn Mbrwk Al-qyzany",
+    "name_arabic": "اشرف بن فتحي بن مبروك القيزاني",
+    "aliases": [
+      "اشرف بن فتحي بن مبروك القيزاني"
+    ],
+    "nationality": "Tunisian",
+    "dob": "05/10/1991",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-qadr Mwmn",
+    "name_arabic": "عبدالقادر مؤمن",
+    "aliases": [
+      "عبدالقادر مؤمن"
+    ],
+    "nationality": "Somali",
+    "dob": "1950",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jmya Al-qrd Al-hsn",
+    "name_arabic": "جمعية القرض الحسن",
+    "aliases": [
+      "جمعية القرض الحسن"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ishaq Mhmd Majd Hnfy Majd",
+    "name_arabic": "إسحاق محمد ماجد حنفي ماجد",
+    "aliases": [
+      "إسحاق محمد ماجد حنفي ماجد"
+    ],
+    "nationality": "Egyptian",
+    "dob": "19/02/2000",
+    "civil_id": "300021901945",
+    "passport": "A37340795",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Thman Hmwd BdAl-lh Al-shmry",
+    "name_arabic": "عثمان حمود عبدالله الشمري",
+    "aliases": [
+      "عثمان حمود عبدالله الشمري"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "303110800269",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "TAl-b Hsyn Ly Jraq",
+    "name_arabic": "طالب حسين علي جراق",
+    "aliases": [
+      "طالب حسين علي جراق"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "30/04/1956",
+    "civil_id": "256043000034",
+    "passport": "P7376803",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ibrahym Khlyl Hsn Ghlwm Sltan",
+    "name_arabic": "إبراهيم خليل حسن غلوم سلطان",
+    "aliases": [
+      "إبراهيم خليل حسن غلوم سلطان"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "18/10/1977",
+    "civil_id": "277101800607",
+    "passport": "P5492435",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "SAl-h BdAl-rda BdAl-lh Qasm",
+    "name_arabic": "صالح عبدالرضا عبدالله قاسم",
+    "aliases": [
+      "صالح عبدالرضا عبدالله قاسم"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "28/01/1971",
+    "civil_id": "271012800763",
+    "passport": "P6217166",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "KhAl-d Ly Hsyn Jraq",
+    "name_arabic": "خالد علي حسين جراق",
+    "aliases": [
+      "خالد علي حسين جراق"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "15/05/1986",
+    "civil_id": "286051501266",
+    "passport": "P5441795",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Dyb NsrAl-lh",
+    "name_arabic": "احمد ديب نصرالله",
+    "aliases": [
+      "احمد ديب نصرالله"
+    ],
+    "nationality": "Lebanese",
+    "dob": "04/09/1962",
+    "civil_id": "262090403566",
+    "passport": "LR 2094369",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd BdAl-mhsn Tahr Al-saygh",
+    "name_arabic": "محمد عبدالمحسن طاهر الصايغ",
+    "aliases": [
+      "محمد عبدالمحسن طاهر الصايغ"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "20/01/1976",
+    "civil_id": "276012001497",
+    "passport": "P6928687",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Nrjs Ysa Hsyn Al-ywsfy",
+    "name_arabic": "نرجس عيسى حسين اليوسفي",
+    "aliases": [
+      "نرجس عيسى حسين اليوسفي"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "1949",
+    "civil_id": "249040100632",
+    "passport": "P05062104",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-lh Ibrahym Ly Al-tar",
+    "name_arabic": "عبدالله إبراهيم علي العطار",
+    "aliases": [
+      "عبدالله إبراهيم علي العطار"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "1974",
+    "civil_id": "274120900685",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Shrka Mstshfa Dar Al-shfa",
+    "name_arabic": "شركة مستشفى دار الشفاء",
+    "aliases": [
+      "شركة مستشفى دار الشفاء"
+    ],
+    "nationality": "Kuwait",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hady Bndr Mhmd Al-hrby",
+    "name_arabic": "هادي بندر محمد الحربي",
+    "aliases": [
+      "هادي بندر محمد الحربي"
+    ],
+    "nationality": "Kuwaiti",
+    "dob": "2007",
+    "civil_id": "307092900239",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Hsn BdAl-jlyl Al-hsyny",
+    "name_arabic": "محمد حسن عبدالجليل الحسيني",
+    "aliases": [
+      "محمد حسن عبدالجليل الحسيني"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "280120701185",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Al-shykh Raghb Hrb Al-jamy",
+    "name_arabic": "مستشفى الشيخ راغب حرب الجامعي",
+    "aliases": [
+      "مستشفى الشيخ راغب حرب الجامعي"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Slah Ghndwr",
+    "name_arabic": "مستشفى صلاح غندور",
+    "aliases": [
+      "مستشفى صلاح غندور"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Al-aml",
+    "name_arabic": "مستشفى الامل",
+    "aliases": [
+      "مستشفى الامل"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa San Jwrj",
+    "name_arabic": "مستشفى سان جورج",
+    "aliases": [
+      "مستشفى سان جورج"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Dar Al-hkma",
+    "name_arabic": "مستشفى دار الحكمة",
+    "aliases": [
+      "مستشفى دار الحكمة"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Al-btwl",
+    "name_arabic": "مستشفى البتول",
+    "aliases": [
+      "مستشفى البتول"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Al-shfa",
+    "name_arabic": "مستشفى الشفاء",
+    "aliases": [
+      "مستشفى الشفاء"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstshfa Al-rswl Al-azm",
+    "name_arabic": "مستشفى الرسول الاعظم",
+    "aliases": [
+      "مستشفى الرسول الاعظم"
+    ],
+    "nationality": "Lebanon",
+    "type": "entity",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Bas Mrad",
+    "name_arabic": "علي عباس مراد",
+    "aliases": [
+      "علي عباس مراد"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "264031300224",
+    "passport": "5725618",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Nasr BdAl-rda Ghdnfr",
+    "name_arabic": "ناصر عبدالرضا غضنفر",
+    "aliases": [
+      "ناصر عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "267102400147",
+    "passport": "5196821",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn BdAl-rda Ghdnfr",
+    "name_arabic": "حسين عبدالرضا غضنفر",
+    "aliases": [
+      "حسين عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "280080500097",
+    "passport": "5806222",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Bdr Ly Ghlwm Dyksn",
+    "name_arabic": "بدر علي غلوم ديكسن",
+    "aliases": [
+      "بدر علي غلوم ديكسن"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "279013000844",
+    "passport": "5408754",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ysa Bas Mrad",
+    "name_arabic": "عيسى عباس مراد",
+    "aliases": [
+      "عيسى عباس مراد"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "270062800062",
+    "passport": "6627896",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Fysl BdAl-rda Ghdnfr",
+    "name_arabic": "فيصل عبدالرضا غضنفر",
+    "aliases": [
+      "فيصل عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "264052400275",
+    "passport": "6214148",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hany BdAl-rda Ghdnfr",
+    "name_arabic": "هاني عبدالرضا غضنفر",
+    "aliases": [
+      "هاني عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "270110600103",
+    "passport": "5044456",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Yasr BdAl-rda Ghdnfr",
+    "name_arabic": "ياسر عبدالرضا غضنفر",
+    "aliases": [
+      "ياسر عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "266011000514",
+    "passport": "5102218",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-zyz Hsyn Al-shty",
+    "name_arabic": "عبدالعزيز حسين الشطي",
+    "aliases": [
+      "عبدالعزيز حسين الشطي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "265112300239",
+    "passport": "5673782",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-mhsn Shban Ghdnfry",
+    "name_arabic": "عبدالمحسن شعبان غضنفري",
+    "aliases": [
+      "عبدالمحسن شعبان غضنفري"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "260100302189",
+    "passport": "5407624",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Fysl BdAl-rda Ghdnfr",
+    "name_arabic": "علي فيصل عبدالرضا غضنفر",
+    "aliases": [
+      "علي فيصل عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "286041401392",
+    "passport": "5227208",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd BdAl-rda Ghdnfr",
+    "name_arabic": "محمد عبدالرضا غضنفر",
+    "aliases": [
+      "محمد عبدالرضا غضنفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "274021800144",
+    "passport": "5420269",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jasm Mhmd Ghdnfry",
+    "name_arabic": "جاسم محمد غضنفري",
+    "aliases": [
+      "جاسم محمد غضنفري"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "267110201017",
+    "passport": "6500437",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "KhAl-d Mjyd BdAl-lh Ydan",
+    "name_arabic": "خالد مجيد عبدالله عيدان",
+    "aliases": [
+      "خالد مجيد عبدالله عيدان"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "265061200106",
+    "passport": "5819759",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Jmyl Khlyl Shahyn",
+    "name_arabic": "محمد جميل خليل شاهين",
+    "aliases": [
+      "محمد جميل خليل شاهين"
+    ],
+    "nationality": "Lebanese",
+    "civil_id": "266112001188",
+    "passport": "LR4080495",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Samy Mhmd Sd",
+    "name_arabic": "سامي محمد سعد",
+    "aliases": [
+      "سامي محمد سعد"
+    ],
+    "nationality": "Lebanese",
+    "civil_id": "270080400759",
+    "passport": "LR2600093",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsn BdAl-lh Hsn BdAl-lh Mhmd Al-qlaf",
+    "name_arabic": "حسن عبدالله حسن عبدالله محمد القلاف",
+    "aliases": [
+      "حسن عبدالله حسن عبدالله محمد القلاف"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "282021100068",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Zyd Hsn BdAl-hady Ly Hajya",
+    "name_arabic": "زيد حسن عبدالهادي علي حاجية",
+    "aliases": [
+      "زيد حسن عبدالهادي علي حاجية"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "297122000025",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Mstfa BdAl-lh Al-mtwq",
+    "name_arabic": "محمد مصطفى عبدالله المعتوق",
+    "aliases": [
+      "محمد مصطفى عبدالله المعتوق"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "301053100805",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hashm Hsyn Hsn JmAl-",
+    "name_arabic": "هاشم حسين حسن جمال",
+    "aliases": [
+      "هاشم حسين حسن جمال"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "292010200046",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Bas Hsn BdAl-hady Ly Hajyh",
+    "name_arabic": "عباس حسن عبدالهادي علي حاجيه",
+    "aliases": [
+      "عباس حسن عبدالهادي علي حاجيه"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "301062600561",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Al-rda Hsyn Hsn JmAl-",
+    "name_arabic": "علي الرضا حسين حسن جمال",
+    "aliases": [
+      "علي الرضا حسين حسن جمال"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "301021000877",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Syd Mhmd Mjyd Syd Mhmd Al-syd Abrahym",
+    "name_arabic": "سيد محمد مجيد سيد محمد السيد ابراهيم",
+    "aliases": [
+      "سيد محمد مجيد سيد محمد السيد ابراهيم"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "301111500664",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Yhya Qmbr Ly Al- Jfr",
+    "name_arabic": "احمد يحيى قمبر علي ال جعفر",
+    "aliases": [
+      "احمد يحيى قمبر علي ال جعفر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "300061700099",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn Ly Mhmd Ashknany",
+    "name_arabic": "حسين علي محمد اشكناني",
+    "aliases": [
+      "حسين علي محمد اشكناني"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "300050201489",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn Jasm Mhmwd Al-mraj",
+    "name_arabic": "حسين جاسم محمود المعراج",
+    "aliases": [
+      "حسين جاسم محمود المعراج"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "299022200512",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn BdAl-lh Mtwq Al-mtwq",
+    "name_arabic": "حسين عبدالله معتوق المعتوق",
+    "aliases": [
+      "حسين عبدالله معتوق المعتوق"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "268082501454",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Basl Hsyn Ly Al-dshty",
+    "name_arabic": "باسل حسين علي الدشتي",
+    "aliases": [
+      "باسل حسين علي الدشتي"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "260112500422",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hmd Mstfa Jmh Shban",
+    "name_arabic": "حمد مصطفى جمعه شعبان",
+    "aliases": [
+      "حمد مصطفى جمعه شعبان"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "284062701299",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hashm Fadl Mhmd Al- Rshyd",
+    "name_arabic": "هاشم فاضل محمد ال رشيد",
+    "aliases": [
+      "هاشم فاضل محمد ال رشيد"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "293010600191",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsn BdAl-hady Ly Hajya",
+    "name_arabic": "حسن عبدالهادي علي حاجية",
+    "aliases": [
+      "حسن عبدالهادي علي حاجية"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "268110800364",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mar Hsn Ghlwm Hsyn",
+    "name_arabic": "عمار حسن غلوم حسين",
+    "aliases": [
+      "عمار حسن غلوم حسين"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "281011501541",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhdy Khlyl Ly Slman",
+    "name_arabic": "مهدي خليل علي سلمان",
+    "aliases": [
+      "مهدي خليل علي سلمان"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "284013001173",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Khlyl Ly Slman",
+    "name_arabic": "محمد خليل علي سلمان",
+    "aliases": [
+      "محمد خليل علي سلمان"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "279041101167",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ywsf Dyj Khlf Bwshhry",
+    "name_arabic": "يوسف دعيج خلف بوشهري",
+    "aliases": [
+      "يوسف دعيج خلف بوشهري"
+    ],
+    "nationality": "Iranian",
+    "civil_id": "283102401932",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-rda Hydr Dhqan",
+    "name_arabic": "عبدالرضا حيدر دهقان",
+    "aliases": [
+      "عبدالرضا حيدر دهقان"
+    ],
+    "nationality": "Iranian",
+    "civil_id": "265112802335",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmwd Wjyh Zbyb",
+    "name_arabic": "محمود وجيه زبيب",
+    "aliases": [
+      "محمود وجيه زبيب"
+    ],
+    "nationality": "Lebanese",
+    "civil_id": "287031100646",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mstfa BdAl-krym Ibrahym Khshab",
+    "name_arabic": "مصطفى عبدالكريم إبراهيم خشاب",
+    "aliases": [
+      "مصطفى عبدالكريم إبراهيم خشاب"
+    ],
+    "nationality": "Lebanese",
+    "civil_id": "291111900733",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hydr Hany Mhmd Iskndr",
+    "name_arabic": "حيدر هاني محمد إسكندر",
+    "aliases": [
+      "حيدر هاني محمد إسكندر"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "294011000299",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-rhym Mhmwd Mhmd JmAl-y",
+    "name_arabic": "عبدالرحيم محمود محمد جمالي",
+    "aliases": [
+      "عبدالرحيم محمود محمد جمالي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "294012600966",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmwd Ahmd Hajy Lary",
+    "name_arabic": "محمود احمد حاجي لاري",
+    "aliases": [
+      "محمود احمد حاجي لاري"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "286040101179",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ywsf Hsn Shban Ghdnfry",
+    "name_arabic": "يوسف حسن شعبان غضنفري",
+    "aliases": [
+      "يوسف حسن شعبان غضنفري"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "287051300397",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Sd Mhmd Ly Atf Al-wlqy",
+    "name_arabic": "سعد محمد علي عاطف العولقي",
+    "aliases": [
+      "سعد محمد علي عاطف العولقي"
+    ],
+    "nationality": "Yemeni",
+    "dob": "01/02/1979",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ibrahym Bn Ahmd Mhmwd Al-qwsy",
+    "name_arabic": "إبراهيم بن احمد محمود القوصي",
+    "aliases": [
+      "إبراهيم بن احمد محمود القوصي"
+    ],
+    "nationality": "Sudanese",
+    "dob": "03/07/1960",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "SAl-h Fadl Mhmd Al-kwt",
+    "name_arabic": "صالح فاضل محمد الكوت",
+    "aliases": [
+      "صالح فاضل محمد الكوت"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "289120300833",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Slah Slman Al-hzym",
+    "name_arabic": "علي صلاح سلمان الهزيم",
+    "aliases": [
+      "علي صلاح سلمان الهزيم"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "287052800406",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Hmza Bas Ly Srkhwh",
+    "name_arabic": "محمد حمزة عباس علي صرخوه",
+    "aliases": [
+      "محمد حمزة عباس علي صرخوه"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "277062100914",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jfr BdAl-krym Jma BdAl-lh Hsyn",
+    "name_arabic": "جعفر عبدالكريم جمعة عبدالله حسين",
+    "aliases": [
+      "جعفر عبدالكريم جمعة عبدالله حسين"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "297050200182",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Samy Mhmd BdAl-lh Al-Amyr",
+    "name_arabic": "احمد سامي محمد عبدالله الأمير",
+    "aliases": [
+      "احمد سامي محمد عبدالله الأمير"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "281020400312",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Jfr Bas Hajy",
+    "name_arabic": "علي جعفر عباس حاجي",
+    "aliases": [
+      "علي جعفر عباس حاجي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "294112200847",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Syd Ahmd Mstfa Al-mwswy",
+    "name_arabic": "سيد احمد مصطفى الموسوي",
+    "aliases": [
+      "سيد احمد مصطفى الموسوي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "294080801372",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhmd Ly Hsyn Rjb",
+    "name_arabic": "محمد علي حسين رجب",
+    "aliases": [
+      "محمد علي حسين رجب"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "290083000214",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhdy Mhmd Bas Ashknany",
+    "name_arabic": "مهدي محمد عباس اشكناني",
+    "aliases": [
+      "مهدي محمد عباس اشكناني"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "288042501159",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ibrahym SAl-h Ywsf Al-mzydy",
+    "name_arabic": "إبراهيم صالح يوسف المزيدي",
+    "aliases": [
+      "إبراهيم صالح يوسف المزيدي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "279030600518",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hamd Hady Mhmd Al-sAl-h",
+    "name_arabic": "حامد هادي محمد الصالح",
+    "aliases": [
+      "حامد هادي محمد الصالح"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "279030300056",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Hsyn BdAl-lh Al-mtwq",
+    "name_arabic": "علي حسين عبدالله المعتوق",
+    "aliases": [
+      "علي حسين عبدالله المعتوق"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "295011700898",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsn Ahmd BdAl-lh Al-tar",
+    "name_arabic": "حسن احمد عبدالله العطار",
+    "aliases": [
+      "حسن احمد عبدالله العطار"
+    ],
+    "nationality": "Non-Kuwaiti",
+    "civil_id": "278062401586",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hsyn Hany Ahmd Al-shty",
+    "name_arabic": "حسين هاني احمد الشطي",
+    "aliases": [
+      "حسين هاني احمد الشطي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "292091600497",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jfr JmAl- Hsyn Bd Ly Al-shty",
+    "name_arabic": "جعفر جمال حسين عبد علي الشطي",
+    "aliases": [
+      "جعفر جمال حسين عبد علي الشطي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "287010600051",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ahmd Hajy Ly Lary",
+    "name_arabic": "احمد حاجي علي لاري",
+    "aliases": [
+      "احمد حاجي علي لاري"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "255092700825",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Dnan Syd BdAl-smd Syd Ahmd",
+    "name_arabic": "عدنان سيد عبدالصمد سيد احمد",
+    "aliases": [
+      "عدنان سيد عبدالصمد سيد احمد"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "250042501243",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Hany Hsyn Ly Shms",
+    "name_arabic": "هاني حسين علي شمس",
+    "aliases": [
+      "هاني حسين علي شمس"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "270060900289",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Khlyl BdAl-lh Ly BdAl-lh Abl",
+    "name_arabic": "خليل عبدالله علي عبدالله ابل",
+    "aliases": [
+      "خليل عبدالله علي عبدالله ابل"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "265041200694",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mbark SAl-h Hsn Al-njada",
+    "name_arabic": "مبارك صالح حسن النجادة",
+    "aliases": [
+      "مبارك صالح حسن النجادة"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "269031500018",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Jfr Bas Hajy",
+    "name_arabic": "جعفر عباس حاجي",
+    "aliases": [
+      "جعفر عباس حاجي"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "252051100045",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Ly Mnswr Hbyb Bwshhry",
+    "name_arabic": "علي منصور حبيب بوشهري",
+    "aliases": [
+      "علي منصور حبيب بوشهري"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "284101501602",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-whab Jabr BdAl-hady JmAl-",
+    "name_arabic": "عبدالوهاب جابر عبدالهادي جمال",
+    "aliases": [
+      "عبدالوهاب جابر عبدالهادي جمال"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "286060501102",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "Mhdy Anwr Slman Al-hzym",
+    "name_arabic": "مهدي أنور سلمان الهزيم",
+    "aliases": [
+      "مهدي أنور سلمان الهزيم"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "285050400039",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
+  },
+  {
+    "name": "BdAl-lh BdAl-hmyd Hsn JmAl-",
+    "name_arabic": "عبدالله عبدالحميد حسن جمال",
+    "aliases": [
+      "عبدالله عبدالحميد حسن جمال"
+    ],
+    "nationality": "Kuwaiti",
+    "civil_id": "289113001405",
+    "type": "individual",
+    "source": "Kuwait MOFA National List (UN Resolution 1373)"
   }
 ]
